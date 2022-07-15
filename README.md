@@ -156,6 +156,11 @@ Zhenyuan Li, et al. **Threat detection and investigation with system-level prove
 - Institution：Zhejiang University, University of California, Northwestern University
 
 
+Zipperle Michael, et al. **Provenance-based Intrusion Detection Systems: A Survey**. ACM Comput. Surv. 2022
+- Paper: https://dl.acm.org/doi/abs/10.1145/3539605
+- Contribution：
+- Institution：University of New South Wales, Canberra, Australia and Cyber Security Cooperative Research Centre, Australia
+
 
 <div align=center><img src="https://github.com/eastmountyxz/APT-ProvenanceGraph/blob/main/summary-01.png" width="60%" height="60%" /></div>
  
